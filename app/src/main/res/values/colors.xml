@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="success_background">#BDDCB9</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="teal_200">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="success_text">#3D7D79</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="user_name">#7E7C7C</color>
+    <color name="receive_payment">#75030F1C</color>
+    <color name="edit_text_color">#86030F1C</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="title">#1573CD</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="divider">#4F000000</color>
+    <color name="forgot_password_text">#EBDC1313</color>
+    <color name="login_Btn">#FF6200EE</color>
+</resources>
